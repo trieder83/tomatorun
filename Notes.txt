@@ -1,0 +1,36 @@
+game genre:
+- parkour 
+- jump & run
+- dress up 
+- tomaten werfen
+
+
+technologie:
+- browser game
+- 3d - three.sj
+- firstperson
+
+
+- use case:
+1. start screen
+2. dressup: 
+   - schuhe auswählen
+   - kleider
+   - hut / hare
+
+3. parkour starten
+   - lava am boden  - ein leben weniger (start mit 5)
+   - monster polizist verfolgt spieler  
+   - mann muss über hindrenisse jumpen
+   - checkpounts, wen gestorben, restart am checkpoint
+
+
+4. korb mit tomante auf dem weg
+
+
+
+features:
+- kleier werden dreckig von tomaten
+- visual: cartoon like,  
+- punkte sammeln 
+
